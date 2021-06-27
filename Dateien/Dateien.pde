@@ -17,7 +17,7 @@ void setup()
     println("ohh");
   }
 
-  img = loadImage("LUL.png");
+  img = loadImage("A:/Processing_YT/Dateien/LUL.png"); // pfad anpassen !!!
   saveStrings("neueDatei.txt", zeilen); 
 }
 
