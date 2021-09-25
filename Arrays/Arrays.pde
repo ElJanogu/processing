@@ -1,6 +1,6 @@
-int[] i0;
-int i1[] = new int[5];
-int[] i2 = {1,65,23,67,1,3,7,3,2};
+int[] i0; // Deklariere eindimensionales Array
+int i1[] = new int[5]; // Deklariere und Initialisiere eindimensionales  Array der größe 5
+int[] i2 = {1,65,23,67,1,3,7,3,2}; // Deklariere und Initialisiere eindimensionales  Array mit Werten
 
 int[][] j0;
 int j1[][] = new int[5][7];
