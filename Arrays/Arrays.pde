@@ -1,10 +1,10 @@
-int[] i0; // Deklariere eindimensionales Array
-int i1[] = new int[5]; // Deklariere und Initialisiere eindimensionales Array mit der groesse von 5 indizes
-int[] i2 = {1,65,23,67,1,3,7,3,2}; // Deklariere und Initialisiere eindimensionales Array mit Werten
+int[] i0; // Deklariere eindimensionales Array von Typ int
+int i1[] = new int[5]; // Deklariere und Initialisiere eindimensionales Array mit der groesse von 5 indizes von Typ int
+int[] i2 = {1,65,23,67,1,3,7,3,2}; // Deklariere und Initialisiere eindimensionales Array mit Werten von Typ int
 
-int[][] j0; // Deklariere zweidimensionales Array
-int j1[][] = new int[5][7]; // Deklariere und Initialisere zweidimensionales Array der groesse 5 x 7 indizes
-int [][] j2 = {{12,3}, {0, -3}, {17, 12}, {22,4}}; // Deklariere und Initialisiere zweidimensionales Array mit Werten
+int[][] j0; // Deklariere zweidimensionales Array von Typ int
+int j1[][] = new int[5][7]; // Deklariere und Initialisere zweidimensionales Array der groesse 5 x 7 indizes von Typ int
+int [][] j2 = {{12,3}, {0, -3}, {17, 12}, {22,4}}; // Deklariere und Initialisiere zweidimensionales Array mit Werten von Typ int
   
 void setup() // void setup -> wird zum Programmstart einmal ausgeführt
 {
