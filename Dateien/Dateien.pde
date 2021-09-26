@@ -1,8 +1,7 @@
-// textdateien
-// bilder
+// Beinhaltet Text- und Bilddateien
 
-String[] zeilen;
-PImage img;
+String[] zeilen; // Deklariere Array von Typ String
+PImage img; // Deklatiere Bild Variable
 
 void setup()
 {
