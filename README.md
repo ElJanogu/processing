@@ -6,3 +6,24 @@ Download Processing :
 
 Tutorials (Quellen):
 - https://processing.org/tutorials/
+
+Reihenfolge :
+
+01 Basisbefehle
+
+02 Variablen
+
+03 Kontrollstrukturen
+
+04 Funktionen
+
+05 Interaktion
+
+06 Arrays
+
+07 Klassen
+
+08 Text
+
+09 Dateien
+
